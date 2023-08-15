@@ -1,4 +1,3 @@
-# NYC-yellow-taxi-big-data-analysis
 # NYC-Yellow-Taxi-Big-Data-Analytics
 Analysis of New York city yellow taxi data set with Hadoop MapReduce.
 
